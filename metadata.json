@@ -1,0 +1,6 @@
+{
+  "name": "KAS Slide Trade",
+  "description": "Tactile slide-to-trade simulator for Kaspa (KAS/USDT) and KCC-20 ecosystem tokens featuring real-time Kaspa price feeds, KaspaRocket SDK integration, Kasvio explorer links, dynamic canvas chart, and portfolio tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
